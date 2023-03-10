@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(20, 47, 180);
+    color: rgb(255, 255, 255);
+}
+
+H1{
+    text-align: center;
+}
+table, th, td {
+    border: 4px solid rgb(2, 8, 87);
+    border-collapse: collapse;
+    margin: auto;
+    
+}
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
